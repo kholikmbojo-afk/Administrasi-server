@@ -18,3 +18,7 @@
 
 6. Ubah Index.html menjadi website portofolio
 ![alt text](image-6.png)
+
+
+7. status nginx
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/f3f13d4f-1a9b-4e7b-bf26-a5004f402a07" />
